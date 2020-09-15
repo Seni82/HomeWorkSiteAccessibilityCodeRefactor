@@ -27,7 +27,10 @@ In improving the website whilst refactoring, the following semantic tags were us
 *  **Section tag**
 *  **Aside tag**
 *  **Footer tag**
-  
+   
+# Technology used :
+* Html.
+* Css.
 
 # Changes made in line with requirements :
 * As per the request **"Alt"** attribute has been added onto the every **"img"** tag.
