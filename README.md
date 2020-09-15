@@ -13,7 +13,7 @@ This home work is about code refactoring to improve website accessibility.
   * We manage your online reputations.
   * Social media marketing.
 
-  There are further added benefits and for more details, see the website [Horiseon](https://seni82.github.io/web-accessibility-code-refactor/#search-engine-optimization)
+  There are further added benefits and for more details, see the website url : [Horiseon](https://seni82.github.io/web-accessibility-code-refactor/#search-engine-optimization) 
 
 
 # Purpose of project :
@@ -22,11 +22,11 @@ The purpose of this project is to improve and ehance the website to drive more c
 # Semantic tags used :
 In improving the website whilst refactoring, teh following semantic tags were used in line with the requirements :
 
-* Header - **<header></header> tag**
-* Nav     - **<nav></nav> tag**
-* Section - **<section></section> tag**
-* Aside  - **<aside></aside> tag**
-* Footer - **<footer></footer> tag**
+* Header - <header></header> tag
+* Nav     - <nav></nav> tag
+* Section - <section></section> tag
+* Aside  - <aside></aside> tag
+* Footer - <footer></footer> tag
   
 
 # Changes made in line with requirements :
@@ -43,9 +43,9 @@ In improving the website whilst refactoring, teh following semantic tags were us
 
 # Github (project) reporsitory url & Live Url :
 
-[Github Project Url](https://github.com/Seni82/web-accessibility-code-refactor)
+Github project url - [Github Project Url](https://github.com/Seni82/web-accessibility-code-refactor)
 
-[Published live Url](https://seni82.github.io/web-accessibility-code-refactor/)
+Live project url - [Published live Url](https://seni82.github.io/web-accessibility-code-refactor/)
 
 
 # Issues Identified :
