@@ -22,11 +22,11 @@ The purpose of this project is to improve and ehance the website to drive more c
 # Semantic tags used :
 In improving the website whilst refactoring, teh following semantic tags were used in line with the requirements :
 
-* Header tag
-* Nav tag
-* Section tag
-* Aside tag
-* Footer tag
+*  **Header tag**
+*  **Nav tag**
+*  **Section tag**
+*  **Aside tag**
+*  **Footer tag**
   
 
 # Changes made in line with requirements :
