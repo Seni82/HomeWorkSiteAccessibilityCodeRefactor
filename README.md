@@ -20,7 +20,7 @@ This home work is about code refactoring to improve website accessibility.
 The purpose of this project is to improve and ehance the website to drive more customers of different range and needs onto the site. Refactoring the website source code to fall in-line with the new semantics html which ehances and improves the search engine on google.
 
 # Semantic tags used :
-In improving the website whilst refactoring, teh following semantic tags were used in line with the requirements :
+In improving the website whilst refactoring, the following semantic tags were used in line with the requirements :
 
 *  **Header tag**
 *  **Nav tag**
