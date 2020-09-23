@@ -56,3 +56,8 @@ Issues identified during the refactoring that is still not resolved is that the 
 
 # Improvement plan :
 The first improvement plan is to make the website to be mobile friendly so that mobile users can have similar user experience as the desktop users.
+
+
+# Website Screenshots :
+
+![](Assets/01-html-css-git-homework-demo.png)
